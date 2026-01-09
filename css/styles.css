@@ -378,3 +378,34 @@ ul {
     color: #1e3a5a;
     font-size: 16px;
 }
+
+.early-access-section {
+    padding: 100px 0;
+    background-color: #f5f5f0;
+}
+
+.cta-content {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cta-content .section-heading {
+    margin-bottom: 24px;
+}
+
+.cta-description {
+    color: #6b7c8f;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.cta-content .btn {
+    margin-top: 32px;
+}
+
+.cta-note {
+    color: #9ca3af;
+    font-size: 14px;
+    margin-top: 20px;
+}
